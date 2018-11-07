@@ -1,0 +1,9 @@
+[submodule "sw4iot-etcd"]
+	path = sw4iot-etcd
+	url = https://github.com/sw4iot/sw4iot-etcd
+[submodule "contiv-sdk"]
+	path = contiv-sdk
+	url = https://github.com/sw4iot/contiv-sdk
+[submodule "sw4iot-cli"]
+	path = sw4iot-cli
+	url = https://github.com/sw4iot/sw4iot-cli
